@@ -1,0 +1,11 @@
+.container{
+    border:1px solid black;
+    margin: 15px;
+    width: 50px;
+    border-radius: 5px;
+    min-width: 300px;
+    margin-left: 400px;
+    padding: 20px
+    ;
+
+}
